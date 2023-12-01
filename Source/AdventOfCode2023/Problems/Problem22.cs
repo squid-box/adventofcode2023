@@ -1,22 +1,19 @@
-namespace AdventOfCode2023.Problems
+namespace AdventOfCode2023.Problems;
+
+/// <summary>
+/// Solution for <a href="https://adventofcode.com/2023/day/22">Day 22</a>.
+/// </summary>
+public class Problem22(InputDownloader inputDownloader) : ProblemBase(22, inputDownloader)
 {
-    /// <summary>
-    /// Solution for <a href="https://adventofcode.com/2023/day/22">Day 22</a>.
-    /// </summary>
-    public class Problem22 : ProblemBase
+    /// <inheritdoc />
+    protected override object SolvePartOne()
     {
-        public Problem22(InputDownloader inputDownloader) : base(22, inputDownloader) { }
+        return "Unsolved";
+    }
 
-        /// <inheritdoc />
-        protected override object SolvePartOne()
-        {
-            return "Unsolved";
-        }
-
-        /// <inheritdoc />
-        protected override object SolvePartTwo()
-        {
-            return "Unsolved";
-        }
+    /// <inheritdoc />
+    protected override object SolvePartTwo()
+    {
+        return "Unsolved";
     }
 }
