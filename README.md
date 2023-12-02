@@ -9,7 +9,7 @@ The .exe will download the input of the requested day if it's missing.
 | Day                                        | Title                    | C#            |
 |:------------------------------------------:| ------------------------ |:-------------:|
 |  [1](https://adventofcode.com/2023/day/1)  | Trebuchet?!              | :star: :star: |
-|  [2](https://adventofcode.com/2023/day/2)  |                          |               |
+|  [2](https://adventofcode.com/2023/day/2)  | Cube Conundrum           | :star: :star: |
 |  [3](https://adventofcode.com/2023/day/3)  |                          |               |
 |  [4](https://adventofcode.com/2023/day/4)  |                          |               |
 |  [5](https://adventofcode.com/2023/day/5)  |                          |               |
