@@ -10,7 +10,7 @@ The .exe will download the input of the requested day if it's missing.
 |:------------------------------------------:| ------------------------ |:-------------:|
 |  [1](https://adventofcode.com/2023/day/1)  | Trebuchet?!              | :star: :star: |
 |  [2](https://adventofcode.com/2023/day/2)  | Cube Conundrum           | :star: :star: |
-|  [3](https://adventofcode.com/2023/day/3)  |                          |               |
+|  [3](https://adventofcode.com/2023/day/3)  | Gear Ratios              | :star: :star: |
 |  [4](https://adventofcode.com/2023/day/4)  |                          |               |
 |  [5](https://adventofcode.com/2023/day/5)  |                          |               |
 |  [6](https://adventofcode.com/2023/day/6)  |                          |               |
