@@ -6,30 +6,30 @@ To run this you'll need to provide your session cookie from the Advent of Code w
 The .exe will download the input of the requested day if it's missing.
 
 
-| Day                                        | Title                    | C#            |
-|:------------------------------------------:| ------------------------ |:-------------:|
-|  [1](https://adventofcode.com/2023/day/1)  | Trebuchet?!              | :star: :star: |
-|  [2](https://adventofcode.com/2023/day/2)  | Cube Conundrum           | :star: :star: |
-|  [3](https://adventofcode.com/2023/day/3)  | Gear Ratios              | :star: :star: |
-|  [4](https://adventofcode.com/2023/day/4)  |                          |               |
-|  [5](https://adventofcode.com/2023/day/5)  |                          |               |
-|  [6](https://adventofcode.com/2023/day/6)  |                          |               |
-|  [7](https://adventofcode.com/2023/day/7)  |                          |               |
-|  [8](https://adventofcode.com/2023/day/8)  |                          |               |
-|  [9](https://adventofcode.com/2023/day/9)  |                          |               |
-| [10](https://adventofcode.com/2023/day/10) |                          |               |
-| [11](https://adventofcode.com/2023/day/11) |                          |               |
-| [12](https://adventofcode.com/2023/day/12) |                          |               |
-| [13](https://adventofcode.com/2023/day/13) |                          |               |
-| [14](https://adventofcode.com/2023/day/14) |                          |               |
-| [15](https://adventofcode.com/2023/day/15) |                          |               |
-| [16](https://adventofcode.com/2023/day/16) |                          |               |
-| [17](https://adventofcode.com/2023/day/17) |                          |               |
-| [18](https://adventofcode.com/2023/day/18) |                          |               |
-| [19](https://adventofcode.com/2023/day/19) |                          |               |
-| [20](https://adventofcode.com/2023/day/20) |                          |               |
-| [21](https://adventofcode.com/2023/day/21) |                          |               |
-| [22](https://adventofcode.com/2023/day/22) |                          |               |
-| [23](https://adventofcode.com/2023/day/23) |                          |               |
-| [24](https://adventofcode.com/2023/day/24) |                          |               |
-| [25](https://adventofcode.com/2023/day/25) |                          |               |
+| Day                                        | Title                           | C#            |
+|:------------------------------------------:| ------------------------------- |:-------------:|
+|  [1](https://adventofcode.com/2023/day/1)  | Trebuchet?!                     | :star: :star: |
+|  [2](https://adventofcode.com/2023/day/2)  | Cube Conundrum                  | :star: :star: |
+|  [3](https://adventofcode.com/2023/day/3)  | Gear Ratios                     | :star: :star: |
+|  [4](https://adventofcode.com/2023/day/4)  | Scratchcards                    | :star: :star: |
+|  [5](https://adventofcode.com/2023/day/5)  | If You Give A Seed A Fertilizer |               |
+|  [6](https://adventofcode.com/2023/day/6)  | Wait For It                     |               |
+|  [7](https://adventofcode.com/2023/day/7)  | Camel Cards                     |               |
+|  [8](https://adventofcode.com/2023/day/8)  | Haunted Wasteland               |               |
+|  [9](https://adventofcode.com/2023/day/9)  | Mirage Maintenance              |               |
+| [10](https://adventofcode.com/2023/day/10) | Pipe Maze                       |               |
+| [11](https://adventofcode.com/2023/day/11) | Cosmic Expansion                |               |
+| [12](https://adventofcode.com/2023/day/12) | Hot Springs                     |               |
+| [13](https://adventofcode.com/2023/day/13) | Point of Incidence              |               |
+| [14](https://adventofcode.com/2023/day/14) | Parabolic Reflector Dish        |               |
+| [15](https://adventofcode.com/2023/day/15) | Lens Library                    |               |
+| [16](https://adventofcode.com/2023/day/16) | The Floor Will Be Lava          |               |
+| [17](https://adventofcode.com/2023/day/17) | Clumsy Crucible                 |               |
+| [18](https://adventofcode.com/2023/day/18) | Lavaduct Lagoon                 |               |
+| [19](https://adventofcode.com/2023/day/19) | Aplenty                         |               |
+| [20](https://adventofcode.com/2023/day/20) | Pulse Propagation               |               |
+| [21](https://adventofcode.com/2023/day/21) | Step Counter                    |               |
+| [22](https://adventofcode.com/2023/day/22) | Sand Slabs                      |               |
+| [23](https://adventofcode.com/2023/day/23) | A Long Walk                     |               |
+| [24](https://adventofcode.com/2023/day/24) | Never Tell Me The Odds          |               |
+| [25](https://adventofcode.com/2023/day/25) | Snowverload                     |               |
