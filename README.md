@@ -13,7 +13,7 @@ The .exe will download the input of the requested day if it's missing.
 |  [3](https://adventofcode.com/2023/day/3)  | Gear Ratios                     | :star: :star: |
 |  [4](https://adventofcode.com/2023/day/4)  | Scratchcards                    | :star: :star: |
 |  [5](https://adventofcode.com/2023/day/5)  | If You Give A Seed A Fertilizer |               |
-|  [6](https://adventofcode.com/2023/day/6)  | Wait For It                     |               |
+|  [6](https://adventofcode.com/2023/day/6)  | Wait For It                     | :star: :star: |
 |  [7](https://adventofcode.com/2023/day/7)  | Camel Cards                     |               |
 |  [8](https://adventofcode.com/2023/day/8)  | Haunted Wasteland               |               |
 |  [9](https://adventofcode.com/2023/day/9)  | Mirage Maintenance              |               |
